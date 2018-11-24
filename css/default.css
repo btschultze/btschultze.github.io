@@ -830,3 +830,16 @@ video {
 
 .mobile-weave {
 max-height:344px}
+
+/*UPDATED STUFF*/
+
+.bullets {
+    list-style:disc;
+    margin-left: 3em;
+    margin-top: 0;
+}
+
+
+.bullets li {
+    margin-bottom: 0.3em
+}
