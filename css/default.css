@@ -147,7 +147,7 @@ body {
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
-	color: #838C95;
+	color: #505050;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
@@ -841,5 +841,19 @@ max-height:344px}
 
 
 .bullets li {
-    margin-bottom: 0.3em
+    margin-bottom: 0.3em;
+}
+
+
+.inside-pics {
+    max-width:60%;
+    
+}
+
+.bold-other {
+    font: 15px 'opensans-bold', sans-serif;
+}
+
+.other-bullets {
+    margin:0px;
 }
